@@ -1,0 +1,293 @@
+Kabupaten Aceh Barat#34000#
+Kabupaten Aceh Barat Daya#33000#
+Kabupaten Aceh Besar#30000#
+Kabupaten Aceh Jaya#35000#
+Kabupaten Aceh Selatan#29000#
+Kabupaten Aceh Singkil#27000#
+Kabupaten Aceh Tamiang#28000#
+Kabupaten Aceh Tengah#25000#
+Kabupaten Aceh Tenggara#29000#
+Kabupaten Aceh Timur#25000#
+Kabupaten Aceh Utara#25000#
+Kabupaten Bener Meriah#35000#
+Kabupaten Bireuen#25000#
+Kabupaten Gayo Lues#25000#
+Kabupaten Nagan Raya#33000#
+Kabupaten Pidie#35000#
+Kabupaten Pidie Jaya#45000#
+Kabupaten Simeulue#32000#
+Kota Banda Aceh#46000#
+Kota Langsa#41000#
+Kota Lhokseumawe#40000#
+Kota Sabang#39000#
+Kota Subulussalam#25000#
+Kabupaten Asahan#24000#
+Kabupaten Batubara#29000#
+Kabupaten Dairi#31000#
+Kabupaten Deli Serdang#35000#
+Kabupaten Humbang Hasundutan#28000#
+Kabupaten Karo#27000#
+Kabupaten Labuhanbatu#37000#
+Kabupaten Labuhanbatu Selatan#34000#
+Kabupaten Labuhanbatu Utara#30000#
+Kabupaten Langkat#34000#
+Kabupaten Mandailing Natal#24000#
+Kabupaten Nias#25000#
+Kabupaten Nias Barat#25000#
+Kabupaten Nias Selatan#35000#
+Kabupaten Nias Utara#35000#
+Kabupaten Padang Lawas#32000#
+Kabupaten Padang Lawas Utara#31000#
+Kabupaten Pakpak Bharat#28000#
+Kabupaten Samosir#29000#
+Kabupaten Serdang Bedagai#23000#
+Kabupaten Simalungun#21000#
+Kabupaten Tapanuli Selatan#24000#
+Kabupaten Tapanuli Tengah#25000#
+Kabupaten Tapanuli Utara#20000#
+Kabupaten Toba Samosir#21000#
+Kota Binjai#19000#
+Kota Gunungsitoli#24000#
+Kota Medan#23000#
+Kota Padangsidempuan#27000#
+Kota Pematangsiantar#26000#
+Kota Sibolga#23000#
+Kota Tanjungbalai#23000#
+Kota Tebing Tinggi#23000#
+Bengkulu#23000#
+Kabupaten Bengkulu Selatan#23000#
+Kabupaten Bengkulu Tengah#21000#
+Kabupaten Bengkulu Utara#21000#
+Kabupaten Kaur#21000#
+Kabupaten Kepahiang#21000#
+Kabupaten Lebong#22000#
+Kabupaten Mukomuko#21000#
+Kabupaten Rejang Lebong#23000#
+Kabupaten Seluma#27000#
+Kota Bengkulu#26000#
+Kabupaten Batanghari#28000#
+Kabupaten Bungo#23000#
+Kabupaten Kerinci#24000#
+Kabupaten Merangin#29000#
+Kabupaten Muaro Jambi#23000#
+Kabupaten Sarolangun#22000#
+Kabupaten Tanjung Jabung Barat#31000#
+Kabupaten Tanjung Jabung Timur#31000#
+Kabupaten Tebo#23000#
+Kota Jambi#23000#
+Kota Sungai Penuh#29000#
+Kabupaten Bengkalis#28000#
+Kabupaten Indragiri Hilir#23000#
+Kabupaten Indragiri Hulu#23000#
+Kabupaten Kampar#23000#
+Kabupaten Kuantan Singingi#24000#
+Kabupaten Pelalawan#29000#
+Kabupaten Rokan Hilir#29000#
+Kabupaten Rokan Hulu#28000#
+Kabupaten Siak#23000#
+Kabupaten Kepulauan Meranti#23000#
+Kota Dumai#23000#
+Kota Pekanbaru#25000#
+Kabupaten Agam#25000#
+Kabupaten Dharmasraya#25000#
+Kabupaten Kepulauan Mentawai#25000#
+Kabupaten Lima Puluh Kota#24000#
+Kabupaten Padang Pariaman#26000#
+Kabupaten Pasaman#21000#
+Kabupaten Pasaman Barat#28000#
+Kabupaten Pesisir Selatan#28000#
+Kabupaten Sijunjung#25000#
+Kabupaten Solok#24000#
+Kabupaten Solok Selatan#24000#
+Kabupaten Tanah Datar#24000#
+Kota Bukittinggi#25000#
+Kota Padang#22000#
+Kota Padangpanjang#33000#
+Kota Pariaman#32000#
+Kota Payakumbuh#32000#
+Kota Sawahlunto#35000#
+Kota Solok#32000#
+Kabupaten Banyuasin#32000#
+Kabupaten Empat Lawang#34000#
+Kabupaten Lahat#34000#
+Kabupaten Muara Enim#35000#
+Kabupaten Musi Banyuasin#25000#
+Kabupaten Musi Rawas#25000#
+Kabupaten Ogan Ilir#31000#
+Kabupaten Ogan Komering Ilir#25000#
+Kabupaten Ogan Komering Ulu#25000#
+Kabupaten Ogan Komering Ulu #Selatan#25000#
+Kabupaten Ogan Komering Ulu Timur#25000#
+Kota Lubuklinggau#20000#
+Kota Pagar Alam#19000#
+Kota Palembang#21000#
+Kota Prabumulih#20000#
+Kabupaten Lampung Barat#24000#
+Kabupaten Lampung Selatan#24000#
+Kabupaten Lampung Tengah#24000#
+Kabupaten Lampung Timur#24000#
+Kabupaten Lampung Utara#24000#
+Kabupaten Mesuji#24000#
+Kabupaten Pesawaran#24000#
+Kabupaten Pringsewu#26000#
+Kabupaten Tanggamus#26000#
+Kabupaten Tulang Bawang#26000#
+Kabupaten Tulang Bawang Barat#26000#
+Kabupaten Way Kanan#23000#
+Kota Bandar Lampung#23000#
+Kota Metro#23000#
+Kabupaten Bangka#23000#
+Kabupaten Bangka Barat#23000#
+Kabupaten Bangka Selatan#21000#
+Kabupaten Bangka Tengah#28000#
+Kabupaten Belitung#28000#
+Kabupaten Belitung Timur#28000#
+Kota Pangkal Pinang#28000#
+Kabupaten Bintan#28000#
+Kabupaten Karimun#29000#
+Kabupaten Kepulauan Anambas#24000#
+Kabupaten Lingga#20000#
+Kabupaten Natuna#21000#
+Kota Batam#20000#
+Kota Tanjung Pinang#18000#
+Kabupaten Pandeglang#15000#
+Kota Tangerang#15000#
+Kota Serang#15000#
+Kota Cilegon#15000#
+Kota Tangerang Selatan#15000#
+Kabupaten Bandung#15000#
+Kabupaten Bandung Barat#15000#
+Kabupaten Bekasi#9000#
+Kabupaten Bogor#5000#
+Kabupaten Ciamis#13000#
+Kabupaten Cianjur#13000#
+Kabupaten Cirebon#15000#
+Kabupaten Garut#13000#
+Kabupaten Indramayu#13000#
+Kabupaten Karawang#13000#
+Kabupaten Kuningan#13000#
+Kabupaten Majalengka#17000#
+Kabupaten Purwakarta#13000#
+Kabupaten Subang#13000#
+Kabupaten Sukabumi#13000#
+Kabupaten Sumedang#13000#
+Kabupaten Tasikmalaya#13000#
+Kota Bandung#13000#
+Kota Banjar#13000#
+Kota Bekasi#13000#
+Kota Bogor#5000#
+Kota Cimahi#13000#
+Kota Cirebon#13000#
+Kota Depok#5000#
+Kota Sukabumi#13000#
+Kota Tasikmalaya#13000#
+Kabupaten Administrasi Kepulauan Seribu#10000#
+Kota Administrasi Jakarta Barat#10000#
+Kota Administrasi Jakarta Pusat#10000#
+Kota Administrasi Jakarta Selatan#10000#
+Kota Administrasi Jakarta Timur#10000#
+Kota Administrasi Jakarta Utara#10000#
+Kabupaten Banjarnegara#10000#
+Kabupaten Banyumas#10000#
+Kabupaten Batang#10000#
+Kabupaten Blora#10000#
+Kabupaten Boyolali#10000#
+Kabupaten Brebes#10000#
+Kabupaten Cilacap#10000#
+Kabupaten Demak#10000#
+Kabupaten Grobogan#10000#
+Kabupaten Jepara#10000#
+Kabupaten Karanganyar#10000#
+Kabupaten Kebumen#19000#
+Kabupaten Kendal#10000#
+Kabupaten Klaten#19000#
+Kabupaten Kudus#19000#
+Kabupaten Magelang#19000#
+Kabupaten Pati#19000#
+Kabupaten Pekalongan#19000#
+Kabupaten Pemalang#19000#
+Kabupaten Purbalingga#19000#
+Kabupaten Purworejo#19000#
+Kabupaten Rembang#19000#
+Kabupaten Semarang#19000#
+Kabupaten Sragen#19000#
+Kabupaten Sukoharjo#19000#
+Kabupaten Tegal#19000#
+Kabupaten Temanggung#19000#
+Kabupaten Wonogiri#19000#
+Kabupaten Wonosobo#19000#
+Kota Magelang#19000#
+Kota Pekalongan#19000#
+Kota Salatiga#19000#
+Kota Semarang#19000#
+Kota Surakarta#19000#
+Kota Tegal#19000#
+Kabupaten Bangkalan#19000#
+Kabupaten Banyuwangi#19000#
+Kabupaten Blitar#19000#
+Kabupaten Bojonegoro#19000#
+Kabupaten Bondowoso#19000#
+Kabupaten Gresik#19000#
+Kabupaten Jember#19000#
+Kabupaten Jombang#19000#
+Kabupaten Kediri#19000#
+Kabupaten Lamongan#19000#
+Kabupaten Lumajang#19000#
+Kabupaten Madiun#19000#
+Kabupaten Magetan#19000#
+Kabupaten Malang#19000#
+Kabupaten Mojokerto#19000#
+Kabupaten Nganjuk#19000#
+Kabupaten Ngawi#19000#
+Kabupaten Pacitan#19000#
+Kabupaten Pamekasan#19000#
+Kabupaten Pasuruan#19000#
+Kabupaten Ponorogo#20000#
+Kabupaten Probolinggo#20000#
+Kabupaten Sampang#20000#
+Kabupaten Sidoarjo#20000#
+Kabupaten Situbondo#20000#
+Kabupaten Sumenep#20000#
+Kabupaten Trenggalek#20000#
+Kabupaten Tuban#20000#
+Kabupaten Tulungagung#20000#
+Kota Batu#20000#
+Kota Blitar#20000#
+Kota Kediri#20000#
+Kota Madiun#20000#
+Kota Malang#20000#
+Kota Mojokerto#20000#
+Kota Pasuruan#20000#
+Kota Probolinggo#20000#
+Kota Surabaya#20000#
+Kabupaten Bantul#20000#
+Kabupaten Gunung Kidul#20000#
+Kabupaten Kulon Progo#20000#
+Kabupaten Sleman#20000#
+Kota Yogyakarta#20000#
+Kabupaten Badung#20000#
+Kabupaten Bangli#20000#
+Kabupaten Buleleng#20000#
+Kabupaten Gianyar#20000#
+Kabupaten Jembrana#20000#
+Kabupaten Karangasem#20000#
+Kabupaten Klungkung#20000#
+Kabupaten Tabanan#20000#
+Kota Denpasar#20000#
+Kabupaten Bima#20000#
+Kabupaten Dompu#20000#
+Kabupaten Lombok Barat#20000#
+Kabupaten Lombok Tengah#20000#
+Kabupaten Lombok Timur#20000#
+Kabupaten Lombok Utara#20000#
+Kabupaten Sumbawa#20000#
+Kabupaten Sumbawa Barat#20000#
+Kota Bima#20000#
+Kota Mataram#20000#
+Kabupaten Alor#20000#
+Kabupaten Belu#20000#
+Kabupaten Ende#20000#
+Kabupaten Flores Timur#20000#
+Kabupaten Kupang#20000#
+Kabupaten Lembata#20000#
+Kabupaten Manggarai#20000#

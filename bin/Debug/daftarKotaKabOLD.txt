@@ -1,0 +1,152 @@
+Kabupaten Aceh Barat#34000#
+Kabupaten Aceh Barat Daya#33000#
+Kabupaten Aceh Besar#30000#
+Kabupaten Aceh Jaya#35000#
+Kabupaten Aceh Selatan#29000#
+Kabupaten Aceh Singkil#27000#
+Kabupaten Aceh Tamiang#28000#
+Kabupaten Aceh Tengah#25000#
+Kabupaten Aceh Tenggara#29000#
+Kabupaten Aceh Timur#25000#
+Kabupaten Aceh Utara#25000#
+Kabupaten Bener Meriah#35000#
+Kabupaten Bireuen#25000#
+Kabupaten Gayo Lues#25000#
+Kabupaten Nagan Raya#33000#
+Kabupaten Pidie#35000#
+Kabupaten Pidie Jaya#45000#
+Kabupaten Simeulue#32000#
+Kota Banda Aceh#46000#
+Kota Langsa#41000#
+Kota Lhokseumawe#40000#
+Kota Sabang#39000#
+Kota Subulussalam#25000#
+Kabupaten Asahan#24000#
+Kabupaten Batubara#29000#
+Kabupaten Dairi#31000#
+Kabupaten Deli Serdang#35000#
+Kabupaten Humbang Hasundutan#28000#
+Kabupaten Karo#27000#
+Kabupaten Labuhanbatu#37000#
+Kabupaten Labuhanbatu Selatan#34000#
+Kabupaten Labuhanbatu Utara#30000#
+Kabupaten Langkat#34000#
+Kabupaten Mandailing Natal#24000#
+Kabupaten Nias#25000#
+Kabupaten Nias Barat#25000#
+Kabupaten Nias Selatan#35000#
+Kabupaten Nias Utara#35000#
+Kabupaten Padang Lawas#32000#
+Kabupaten Padang Lawas Utara#31000#
+Kabupaten Pakpak Bharat#28000#
+Kabupaten Samosir#29000#
+Kabupaten Serdang Bedagai#23000#
+Kabupaten Simalungun#21000#
+Kabupaten Tapanuli Selatan#24000#
+Kabupaten Tapanuli Tengah#25000#
+Kabupaten Tapanuli Utara#20000#
+Kabupaten Toba Samosir#21000#
+Kota Binjai#19000#
+Kota Gunungsitoli#24000#
+Kota Medan#23000#
+Kota Padangsidempuan#27000#
+Kota Pematangsiantar#26000#
+Kota Sibolga#23000#
+Kota Tanjungbalai#23000#
+Kota Tebing Tinggi#23000#
+Bengkulu#23000#
+Kabupaten Bengkulu Selatan#23000#
+Kabupaten Bengkulu Tengah#21000#
+Kabupaten Bengkulu Utara#21000#
+Kabupaten Kaur#21000#
+Kabupaten Kepahiang#21000#
+Kabupaten Lebong#22000#
+Kabupaten Mukomuko#21000#
+Kabupaten Rejang Lebong#23000#
+Kabupaten Seluma#27000#
+Kota Bengkulu#26000#
+Kabupaten Batanghari#28000#
+Kabupaten Bungo#23000#
+Kabupaten Kerinci#24000#
+Kabupaten Merangin#29000#
+Kabupaten Muaro Jambi#23000#
+Kabupaten Sarolangun#22000#
+Kabupaten Tanjung Jabung Barat#31000#
+Kabupaten Tanjung Jabung Timur#31000#
+Kabupaten Tebo#23000#
+Kota Jambi#23000#
+Kota Sungai Penuh#29000#
+Kabupaten Bengkalis#28000#
+Kabupaten Indragiri Hilir#23000#
+Kabupaten Indragiri Hulu#23000#
+Kabupaten Kampar#23000#
+Kabupaten Kuantan Singingi#24000#
+Kabupaten Pelalawan#29000#
+Kabupaten Rokan Hilir#29000#
+Kabupaten Rokan Hulu#28000#
+Kabupaten Siak#23000#
+Kabupaten Kepulauan Meranti#23000#
+Kota Dumai#23000#
+Kota Pekanbaru#25000#
+Kabupaten Agam#25000#
+Kabupaten Dharmasraya#25000#
+Kabupaten Kepulauan Mentawai#25000#
+Kabupaten Lima Puluh Kota#24000#
+Kabupaten Padang Pariaman#26000#
+Kabupaten Pasaman#21000#
+Kabupaten Pasaman Barat#28000#
+Kabupaten Pesisir Selatan#28000#
+Kabupaten Sijunjung#25000#
+Kabupaten Solok#24000#
+Kabupaten Solok Selatan#24000#
+Kabupaten Tanah Datar#24000#
+Kota Bukittinggi#25000#
+Kota Padang#22000#
+Kota Padangpanjang#33000#
+Kota Pariaman#32000#
+Kota Payakumbuh#32000#
+Kota Sawahlunto#35000#
+Kota Solok#32000#
+Kabupaten Banyuasin#32000#
+Kabupaten Empat Lawang#34000#
+Kabupaten Lahat#34000#
+Kabupaten Muara Enim#35000#
+Kabupaten Musi Banyuasin#25000#
+Kabupaten Musi Rawas#25000#
+Kabupaten Ogan Ilir#31000#
+Kabupaten Ogan Komering Ilir#25000#
+Kabupaten Ogan Komering Ulu#25000#
+Kabupaten Ogan Komering Ulu #Selatan#25000#
+Kabupaten Ogan Komering Ulu Timur#25000#
+Kota Lubuklinggau#20000#
+Kota Pagar Alam#19000#
+Kota Palembang#21000#
+Kota Prabumulih#20000#
+Kabupaten Lampung Barat#24000#
+Kabupaten Lampung Selatan#24000#
+Kabupaten Lampung Tengah#24000#
+Kabupaten Lampung Timur#24000#
+Kabupaten Lampung Utara#24000#
+Kabupaten Mesuji#24000#
+Kabupaten Pesawaran#24000#
+Kabupaten Pringsewu#26000#
+Kabupaten Tanggamus#26000#
+Kabupaten Tulang Bawang#26000#
+Kabupaten Tulang Bawang Barat#26000#
+Kabupaten Way Kanan#23000#
+Kota Bandar Lampung#23000#
+Kota Metro#23000#
+Kabupaten Bangka#23000#
+Kabupaten Bangka Barat#23000#
+Kabupaten Bangka Selatan#21000#
+Kabupaten Bangka Tengah#28000#
+Kabupaten Belitung#28000#
+Kabupaten Belitung Timur#28000#
+Kota Pangkal Pinang#28000#
+Kabupaten Bintan#28000#
+Kabupaten Karimun#29000#
+Kabupaten Kepulauan Anambas#24000#
+Kabupaten Lingga#20000#
+Kabupaten Natuna#21000#
+Kota Batam#20000#
+Kota Tanjung Pinang#18000#

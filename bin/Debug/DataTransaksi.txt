@@ -1,0 +1,6 @@
+R01#Kabupaten Aceh Singkil#SDS#ASURANSI#leptop erogeh#Paket#2#1#Balgtod#netnawd corp#bambon#bambon#balgeetod@gmail.com#0821739121#paldod#paldod inc#citayem#12312#paldod@gmail.com#0823971283#81000#Barang Telah Sampai
+R02#Kota Medan#REG#ASURANSI#BUKU#Paket#1#1#MIRA#SMP 16 MEDAN#JL.MEDAN SATRIA NO.12 RT08#10202#MIRA@Gmail.com#08782139321#BUDI#PT.PENERBIT BUKU#JL.CITAYAM NO.20#1729#BUDI@Gmail.com#0821312390#63000#Barang Telah Sampai
+R03#Kota Langsa#REG#Pilih Servis#PERALATAN MAKE UP#Paket#2#0#ALICIA#-#JL.MANGGIS 10 RT 08#10102#ALICIAA@Gmail.com#08367821321#BIMA#-#JL.BAMBON RAYA 20#10211#BIMAA@Gmail.com#082319832719#89000#Barang Telah Sampai
+R04#Kota Depok#ECO#PACKING KAYU#Action Figure#Paket#2#0#japar#perumahan podnok rajeg#depok#15598#japar@Gmail.com#08263737#troy#harry ponter#ponter citayem#16431#troy@Gmail.com#08748738#40000#Barang Telah Sampai
+R05#Kota Depok#HDS#PACKING KAYU#Bom#Paket#2#0#Anto#jnt#depok1#16969#anto@Gmail.com#08474637#dapid#cicit#beji#16431#dapud@Gmail.com#084747#44000#Barang Di Pick UP
+R06#Kota Depok#ECO#ASURANSI#Peralatan Masak#Paket#3#1#haixkal#ccitt#depok raya 90#10213#haickall@Gmail.com#0823109312#jerembo#pe en jeh#bekasi#12031#jaerembow@Gmail.com#0821038912#35000#Barang Telah Sampai
